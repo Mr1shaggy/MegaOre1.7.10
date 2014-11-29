@@ -1,0 +1,12 @@
+itemGroup.MegaOre=Mega Ore
+itemGroup.MegaOre Materials=Mega Ore Materials
+
+tile.blockOres.CopperOres.name=Copper Ore
+tile.blockOres.TinOres.name=Tin Ore
+tile.blockOres.NickelOres.name=Nickel Ore
+tile.blockOres.SteelOres.name=Steel Ore
+
+item.CopperIngot.name=Copper Ingot
+item.TinIngot.name=Tin Ingot
+item.NickelIngot.name=Nickel Ingot
+item.SteelIngot.name=Steel Ingot
